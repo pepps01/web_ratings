@@ -1,0 +1,9 @@
+Django=3.0.7
+bs
+beautifulsoup4
+djangorestframework
+bs4
+urllib3==1.25.9
+
+
+ 
